@@ -1,3 +1,5 @@
+![image showing icons](https://raw.githubusercontent.com/sirrobzeroone/basic_materials_alternate_textures/main/screenshot.png)
+
 # basic_materials_alternate_textures
  Alternate 32x32px textures for the minetest mod basic_materials
  Only includes, inventory images not block/model textures. 
